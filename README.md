@@ -1,4 +1,11 @@
-# Full-Stack-Pizza-App-using-Node.js
-In this project I have build a realtime online pizza order app using Node Js, Express Js and Mongo DB. I have used using tailwind css for frontend as a css framework and I have used EJS template engine as well. I have used socket.io for realtime communication.
-Using This app we will be able to order a pizza and get realtime notifications about pizza status. 
+# Realtime pizza app using Node-express-mongo-socket.io
 
+![Realtime Pizza app](https://github.com/codersgyan/realtime-pizza-app-node-express-mongo/blob/master/Screenshot%202020-09-21%20at%2023.03.06.png?raw=true)
+
+
+
+
+## Installation 
+After download or clone run `npm install` OR `yarn install` to install all the dependancies.
+
+🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
